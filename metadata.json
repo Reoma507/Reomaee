@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Manhwa Text Extractor",
+  "description": "An application to extract and classify text from long manhwa images using Gemini. It distinguishes between different types of text bubbles (speech, thought, narration, etc.) and marks them accordingly.",
+  "requestFramePermissions": []
+}
